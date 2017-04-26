@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/h"
+            android:title="Home" />
+        <item
+            android:id="@+id/quick"
+            android:icon="@drawable/q"
+            android:title="Quick Mode" />
+        <item
+            android:id="@+id/gps"
+            android:icon="@drawable/g"
+            android:title="GPS Mode" />
+        <item
+            android:id="@+id/power"
+            android:icon="@drawable/p"
+            android:title="Power" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/s"
+            android:title="Settings" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/a"
+            android:title="About Us" />
+        <item
+            android:id="@+id/info"
+            android:icon="@drawable/i"
+            android:title="Info" />
+    </group>
+
+
+</menu>
